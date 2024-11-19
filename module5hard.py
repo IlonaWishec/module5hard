@@ -2,7 +2,7 @@ import time
 
 class User:
     """
-    Класс пользователя, содержащий: имя аользователя, пароль и возраст.
+    Класс пользователя, содержащий: имя пользователя, пароль и возраст.
     """
     def __init__(self, nickname, password, age):
         self.nickname = nickname
