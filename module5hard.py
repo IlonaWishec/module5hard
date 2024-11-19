@@ -36,7 +36,7 @@ class Video:
 
 class UrTube:
     """
-    Класс UrTube, содержащий список объектов user, video и
+    Класс UrTube, содержащий список объектов user, video и текущего пользователя.
     """
     def __init__(self):
         self.users = []
